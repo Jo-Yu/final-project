@@ -33,9 +33,9 @@ Top:
 Bottom:
  ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9862.JPG)
  
-<p> After you made the body, next we will have to build the circuit.</br>
-The following is the gpio of raspberry pi3.</p>
-![image](https://github.com/Jo-Yu/final-project/blob/master/raspberry-pi-15.jpg)
+After you made the body, next we will have to build the circuit.</br>
+The following is the gpio of raspberry pi3.</br>
+![image](https://github.com/Jo-Yu/final-project/blob/master/raspberry-pi-15.jpg)</br>
 To activate the stepper motors with raspberry pi3, we will have to connect the stepper motors to the gpio that can output 5V and ground.</br>
 
 The following pictures show the circuit I connect. You can use them for reference.</br>
