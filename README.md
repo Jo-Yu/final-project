@@ -1,4 +1,4 @@
-#Final Project : Automatic card dealer 
+<h1>Final Project : Automatic card dealer </h1>
 <p>An automatic card dealer is a machine which can deal poker cards into 4 piles by activating  raspberry pi3. </p>
 <h3>what you will need</h3>
 <ul>If you want to build an automatic card dealer, you will need to prepare these following things first.
