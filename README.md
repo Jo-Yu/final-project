@@ -55,10 +55,10 @@ Raspberry pi3:
 about the software, because we want to use websocket to start the machine by running python script, we will have to write a node.js script and a html script for creating a websocket ,and a python script to control the dealer machine. Of course there will also be a lot of different ways to complete this part.
 </ul>
 The following will be the scripts mentioned above:</br>
-step3.python:</br>
-![image](https://github.com/Jo-Yu/final-project/blob/master/1.jpg)
+step3.python:
+![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.17.43.png)
 
-![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.17.31.png)
+![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.17.54.png)
 And then it's the index.html file</br>
 html:</br>
 ![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.19.00.png)
