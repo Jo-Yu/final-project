@@ -19,5 +19,7 @@ Now the following content will be divided into 2 parts, which are hardware and s
   <li><h4>hardware</h4>
   	About the hardware, we will have to create a machine to put your poker cards in first. I only made some change based on the poker card’s box, but you can also do it in lots of different ways since it is a little unstable using cardboard as the body of the machine. </ul>
   	<ul>The pictures below is the actual appearance of the machine body I made.
-  		<li>Front:</li>
-  		![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9857.JPG)
+	<li>Front:</li></ul>
+![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9857.JPG)
+
+
