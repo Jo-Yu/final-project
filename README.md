@@ -22,4 +22,13 @@ The pictures below is the actual appearance of the machine body I made.
 
 Front:
  ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9857.JPG)
-
+Left side:
+ ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9858.JPG)
+Right side:
+ ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9860.JPG)
+Back:
+ ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9859.JPG)
+Top:
+ ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9861.JPG)
+Bottom:
+ ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9862.JPG)
