@@ -1,6 +1,5 @@
-# final-project
-<h2>Final Project : Automatic card dealer </h2>
-<p>An automatic card dealer is a machine which can deal poker cards by activating  raspberry pi3. </p>
+#Final Project : Automatic card dealer 
+<p>An automatic card dealer is a machine which can deal poker cards into 4 piles by activating  raspberry pi3. </p>
 <h3>what you will need</h3>
 <ul>If you want to build an automatic card dealer, you will need to prepare these following things first.
 	<li>Raspberry pi3 model B</li>
@@ -70,6 +69,29 @@ html:</br>
 finally it's the webserver.js file</br>
 node.js:</br>
 ![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.19.22.png)
+
+<p>Now we are all set!  Lets start up the server and try if it's functional. But first please be sure the place you save your files doesn't make the system unable to work.</p>
+The following pictures show where the files are saved:</br>
+
+![image](https://github.com/Jo-Yu/final-project/blob/master/0.png)</br>
+![image](https://github.com/Jo-Yu/final-project/blob/master/2.png)</br>
+![image](https://github.com/Jo-Yu/final-project/blob/master/3.png)</br>
+
+Now we are going to start up the server,please type these in your pi3 terminal:</br>
+![image](https://github.com/Jo-Yu/final-project/blob/master/4.png)</br>
+![image](https://github.com/Jo-Yu/final-project/blob/master/5.png)</br>
+
+Open the browser at localhost 8080 port:</br>
+![image](https://github.com/Jo-Yu/final-project/blob/master/6.png)</br>
+
+Click the "click me" botton:</br>
+![image](https://github.com/Jo-Yu/final-project/blob/master/7.png)</br>
+
+<p>Here is a demonstration clip of it:</br>
+https://drive.google.com/file/d/1LnXHMJXoDLYc3EFLGQ8kR4WPyOjZC1kC/view?usp=sharing</p>
+
+
+<p>Now if you did all the things right, your automatic card dealer should be working finely! Thank you for watching!</p>
 
 
 
