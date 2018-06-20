@@ -56,7 +56,22 @@ about the software, because we want to use websocket to start the machine by run
 </ul>
 The following will be the scripts mentioned above:</br>
 step3.python:
-![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.17.43.png)
+
+
+
+![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.17.43.png)</br>
+![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.16.43.png)</br>
+
+![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.17.05.png)</br>
+
+![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.17.31.png)</br>
+
+
+
+
+
+
+
 
 ![image](https://github.com/Jo-Yu/final-project/blob/master/螢幕快照%202018-06-20%20%E4%B8%8B%E5%8D%885.17.54.png)
 And then it's the index.html file</br>
