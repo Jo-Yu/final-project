@@ -32,3 +32,22 @@ Top:
  ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9861.JPG)
 Bottom:
  ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9862.JPG)
+ 
+<p> After you made the body, next we will have to build the circuit.</br>
+The following is the gpio of raspberry pi3.
+![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9862.JPG)
+
+
+To activate the stepper motors with raspberry pi3, we will have to connect the stepper motors to the gpio that can output 5V and ground.</p>
+The following pictures show the circuit I connect. You can use them for reference.
+Stepper motor for dealing cards (upper one):
+![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9863.JPG)
+![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9864.JPG)
+Stepper motor for changing angles (downer one):
+![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9865.JPG)
+![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9866.JPG)
+Breadboard:
+![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9867.JPG)
+Raspberry pi3:
+![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9868.JPG)
+
