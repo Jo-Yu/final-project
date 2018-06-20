@@ -34,12 +34,11 @@ Bottom:
  ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9862.JPG)
  
 <p> After you made the body, next we will have to build the circuit.</br>
-The following is the gpio of raspberry pi3.
-![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9862.JPG)
+The following is the gpio of raspberry pi3.</p>
+![image](https://github.com/Jo-Yu/final-project/blob/master/raspberry-pi-15.jpg)
+To activate the stepper motors with raspberry pi3, we will have to connect the stepper motors to the gpio that can output 5V and ground.</br>
 
-
-To activate the stepper motors with raspberry pi3, we will have to connect the stepper motors to the gpio that can output 5V and ground.</p>
-The following pictures show the circuit I connect. You can use them for reference.
+The following pictures show the circuit I connect. You can use them for reference.</br>
 Stepper motor for dealing cards (upper one):
 ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9863.JPG)
 ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9864.JPG)
@@ -50,4 +49,17 @@ Breadboard:
 ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9867.JPG)
 Raspberry pi3:
 ![image](https://github.com/Jo-Yu/final-project/blob/master/IMG_9868.JPG)
+
+<ul>If you got them all right, you should be able to activate your stepper motors when you run the python script now.
+	<li><h4>software</h4></li>
+about the software, because we want to use websocket to start the machine by running python script, we will have to write a node.js script and a html script for creating a websocket ,and a python script to control the dealer machine. Of course there will also be a lot of different ways to complete this part.
+</ul>
+
+
+
+
+
+
+
+
 
