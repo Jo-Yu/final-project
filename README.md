@@ -51,7 +51,7 @@ Raspberry pi3:
 
 <ul>If you got them all right, you should be able to activate your stepper motors when you run the python script now.
 	<li><h4>software</h4></li>
-about the software, because we want to use websocket to start the machine by running python script, we will have to write a node.js script and a html script for creating a websocket ,and a python script to control the dealer machine.In the python script, we have to let the dealer turn to 4 different directions, and the total number of cards been dealed will be 52, which is all the cards except the jokers.Thus if we want to deal more or less cards, we'ii only need to add or subtract the scripts in the end. Of course there will also be a lot of different ways to complete this part.
+about the software, because we want to use websocket to start the machine by running python script, we will have to write a node.js script and a html script for creating a websocket ,and a python script to control the dealer machine.In the python script, we have to let the dealer turn to 4 different directions, and the total number of cards been dealed will be 52, which is all the cards except the jokers.Thus if we want to deal more or less cards, we'll only need to add or subtract the scripts in the end. Of course there will also be a lot of different ways to complete this part.
 </ul>
 The following will be the scripts mentioned above:</br>
 step3.python:
